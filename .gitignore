@@ -1,0 +1,7 @@
+*.pyc
+.idea
+.DS_Store
+myapp.log
+venv
+ve
+app/script_manager/error_log_orders_to_deliver.txt
